@@ -1,0 +1,12 @@
+addresses:
+  enabled: true
+  servers:
+    - main_page_url: "https://tl.rulate.ru"
+      find_ranobe_page_url: "https://tl.rulate.ru/search?t="
+      ranobe_page_url: "https://tl.rulate.ru/book/"
+    - main_page_url: "https://ranobehub.org"
+      find_ranobe_page_url: "https://ranobehub.org/search?query="
+      ranobe_page_url: "https://ranobehub.org/ranobe/"
+    - main_page_url: "https://ranobelib.me"
+      find_ranobe_page_url: "https://ranobelib.me/search?type=manga&q="
+      ranobe_page_url: "ranobelib.me/"
